@@ -1,5 +1,5 @@
 cat > .gitignore << 'EOF'
-# Logs
+
 logs
 *.log
 npm-debug.log*
@@ -15,7 +15,6 @@ dist-ssr
 coverage
 *.local
 
-# Editor directories and files
 .vscode/*
 !.vscode/extensions.json
 .idea

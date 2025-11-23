@@ -117,7 +117,6 @@ const toggleComplete = (index) => {
   margin: 0 auto;
 }
 
-/* Header Styles */
 .header {
   text-align: center;
   margin-bottom: 2rem;
@@ -138,7 +137,6 @@ const toggleComplete = (index) => {
   font-size: 1rem;
 }
 
-/* Main Card */
 .main-card {
   background: white;
   border-radius: 2rem;
@@ -146,7 +144,6 @@ const toggleComplete = (index) => {
   overflow: hidden;
 }
 
-/* Form Section */
 .form-section {
   background: linear-gradient(135deg,#ed3838, #ff7272, #ffc9c9);
   padding: 2rem;
@@ -208,12 +205,10 @@ const toggleComplete = (index) => {
   }
 }
 
-/* Tasks Section */
 .tasks-section {
   padding: 2rem;
 }
 
-/* Empty State */
 .empty-state {
   text-align: center;
   padding: 4rem 2rem;
@@ -242,7 +237,6 @@ const toggleComplete = (index) => {
   color: #9ca3af;
 }
 
-/* Tasks List */
 .tasks-list {
   display: flex;
   flex-direction: column;
@@ -366,7 +360,6 @@ const toggleComplete = (index) => {
   color: #10b981;
 }
 
-/* Footer */
 .footer {
   text-align: center;
   margin-top: 2rem;
